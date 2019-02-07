@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+}
+nav a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+.Home {
+  background-image: url(../Image/the-flatiron-building.png);
+}
+.Home h1{
+  font-family: Helvetica;
+  font-size: 60px;
+  font-weight: bold;
+}
+.About, .Portfolio, .Team, .Contact {
+  font-family: Helvetica;
+}
+.About h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.About h3, .Portfolio h3, .Team h3, .Contact h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.About p, .Portfolio p, .Team p, .Contact p{
+  font-size: 14px;
+}
+.Footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgrey;
+  text-align: left;
+}
+.Footer a {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+#DIN {
+  background-image: url(../Image/the-flatiron-building.png);
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
